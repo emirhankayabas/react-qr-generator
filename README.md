@@ -2,6 +2,6 @@
 
 React starter kit. React Rooter Dom, Tailwind CSS. File structure and routing.
 
-# Usage
+# Demo
 
-"git clone https://github.com/emirhankayabas/react-starter-kit" command on the terminal screen.
+<a href="https://qr-generator-emirhankayabas.vercel.app/">https://qr-generator-emirhankayabas.vercel.app/</a>
