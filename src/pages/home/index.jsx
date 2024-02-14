@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <>
-      <main className="container mx-auto flex flex-col gap-y-4">
+      <main className="container mx-auto flex flex-col gap-y-4 px-4">
         <p className="text-white font-semibold text-xl">
           QR Code oluşturmak için bir URL girin.
         </p>
